@@ -55,7 +55,7 @@ View my notebook with detailed steps here:[football](football.ipynb)
 
 ## Results
 
-![Ksa Goals Trend](images\Ksa_Goals_Trend.png)
+![Ksa Goals Trend](images/Ksa_Goals_Trend.png)
 
 ## Insights
 
@@ -67,7 +67,7 @@ View my notebook with detailed steps here:[football](football.ipynb)
 
 ## Results
 
-![Saudi Arabia Goals by Year](images\Saudi_Arabia_Goals_by_Year.png)
+![Saudi Arabia Goals by Year](images/Saudi_Arabia_Goals_by_Year.png)
 
 ## Insights
 
